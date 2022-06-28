@@ -23,6 +23,14 @@ code {
   display: flex;
 }
 
+.news-feed {
+  background-color: rgb(204, 204, 231);
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  max-width: 300px;
+}
+
 
 .currency-converter {
   background-color: rgb(230, 223, 211);
